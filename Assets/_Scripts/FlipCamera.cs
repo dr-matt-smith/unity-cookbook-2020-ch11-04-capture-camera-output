@@ -1,4 +1,8 @@
-﻿using UnityEngine;
+﻿
+// updated from Unity Wiki
+// http://wiki.unity3d.com/index.php?title=InvertCamera
+
+using UnityEngine;
 
 public class FlipCamera : MonoBehaviour
 {
